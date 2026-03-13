@@ -5,8 +5,8 @@ Professional Python Function Docstring Generator with AST Analysis
 
 📌 Overview
 
-Doc-Genie is an intelligent Python documentation tool that automatically generates professional docstrings using Abstract Syntax Tree (AST) analysis. Instead of writing documentation manually, developers can paste their Python functions into the system and instantly receive structured, industry-standard docstrings.
-
+Doc-Genie is an intelligent Python documentation tool that automatically generates professional docstrings using Abstract Syntax Tree (AST) analysis.
+Instead of writing documentation manually, developers can paste their Python functions into the system and instantly receive structured, industry-standard docstrings.
 The platform analyzes function signatures, parameters, return types, and internal logic to produce accurate and meaningful documentation. It supports multiple documentation styles and provides export options for production use.
 
 🎯 Key Features
@@ -20,7 +20,6 @@ Intelligent Logic Detection Understands loops, conditionals, return statements, 
 Professional Interface Built using Gradio for an interactive and user-friendly experience.
 
 Export Options
-
 PDF format
 TXT format
 Production-Ready Output Generates clean documentation suitable for real-world projects.
