@@ -26,6 +26,7 @@ TXT format
 Production-Ready Output Generates clean documentation suitable for real-world projects.
 
 🏗️ System Architecture
+<img width="1536" height="1024" alt="ChatGPT Image Mar 3, 2026, 12_34_05 PM" src="https://github.com/user-attachments/assets/4b5127a5-da8a-475d-95a1-20e3f1d6db32" />
 
 User inputs Python function
 AST Parser analyzes function structure
