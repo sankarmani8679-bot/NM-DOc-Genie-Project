@@ -35,12 +35,14 @@ Docstring Generator formats output (Google / NumPy style)
 Export Module generates downloadable documentation
 
 🛠️ Technologies Used
+
 Python
 AST (Abstract Syntax Tree)
 Gradio
 Report generation libraries (for PDF export)
 
 💡 How It Works
+
 The system parses Python code using AST.
 It extracts parameters, default values, annotations, and return statements.
 Logic detection identifies function purpose based on structure.
@@ -48,6 +50,7 @@ A structured docstring is generated in the selected style.
 Users can copy or export the generated documentation.
 
 🚀 Advantages
+
 Saves developer time
 Ensures documentation consistency
 Reduces human error
@@ -55,16 +58,19 @@ Improves code readability
 Supports professional standards
 
 📂 Use Cases
+
 Academic projects
 Open-source repositories
 Enterprise Python applications
 Code review and documentation improvement
 
 🔮 Future Enhancements
+
 Class and module-level docstring generation
 GitHub integration
 API documentation export
 AI-powered summary refinement
 
 📌 Conclusion
+
 Doc-Genie simplifies Python documentation by combining AST analysis with intelligent docstring generation. It provides a structured, consistent, and production-ready solution through a clean Gradio interface, making documentation faster, easier, and more reliable for developers.
