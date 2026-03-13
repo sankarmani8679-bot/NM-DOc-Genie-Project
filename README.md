@@ -12,11 +12,17 @@ The platform analyzes function signatures, parameters, return types, and interna
 🎯 Key Features
 
 AST-Based Code Analysis Uses Python’s AST module to deeply analyze function structure and behavior.
+
 Automatic Docstring Generation Generates clear and structured docstrings for Python functions.
+
 Multiple Documentation Styles
+
 Google Style
+
 NumPy Style
+
 Intelligent Logic Detection Understands loops, conditionals, return statements, and core logic patterns.
+
 Professional Interface Built using Gradio for an interactive and user-friendly experience.
 
 Export Options
